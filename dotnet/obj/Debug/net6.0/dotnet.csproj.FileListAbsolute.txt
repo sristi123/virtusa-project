@@ -1,0 +1,15 @@
+d:\virtusa\dotnet\bin\Debug\net6.0\dotnet.exe
+d:\virtusa\dotnet\bin\Debug\net6.0\dotnet.deps.json
+d:\virtusa\dotnet\bin\Debug\net6.0\dotnet.runtimeconfig.json
+d:\virtusa\dotnet\bin\Debug\net6.0\dotnet.dll
+d:\virtusa\dotnet\bin\Debug\net6.0\dotnet.pdb
+d:\virtusa\dotnet\obj\Debug\net6.0\dotnet.csproj.AssemblyReference.cache
+d:\virtusa\dotnet\obj\Debug\net6.0\dotnet.GeneratedMSBuildEditorConfig.editorconfig
+d:\virtusa\dotnet\obj\Debug\net6.0\dotnet.AssemblyInfoInputs.cache
+d:\virtusa\dotnet\obj\Debug\net6.0\dotnet.AssemblyInfo.cs
+d:\virtusa\dotnet\obj\Debug\net6.0\dotnet.csproj.CoreCompileInputs.cache
+d:\virtusa\dotnet\obj\Debug\net6.0\dotnet.dll
+d:\virtusa\dotnet\obj\Debug\net6.0\refint\dotnet.dll
+d:\virtusa\dotnet\obj\Debug\net6.0\dotnet.pdb
+d:\virtusa\dotnet\obj\Debug\net6.0\dotnet.genruntimeconfig.cache
+d:\virtusa\dotnet\obj\Debug\net6.0\ref\dotnet.dll
